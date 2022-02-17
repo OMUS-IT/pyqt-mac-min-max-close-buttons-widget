@@ -1,4 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.7 (gitHub)" project-jdk-type="Python SDK" />
-</project>
+/* add your CSS here */
+img{
+  width:800px
+}
+
+#interesting-fact {
+  font-style: italic;
+}
+
+span {
+  font-weight: bold;
+}
+
+li{
+  list-style-type: none;
+}
+
+#container {
+  border-style: solid;
+  padding: 5px
+}
+
+.animal-info {
+  border-style: solid;
+   padding: 5px
+}
+
